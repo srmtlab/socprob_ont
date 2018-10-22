@@ -12,3 +12,12 @@ tag:2 rdf:type oa:Annotation;
   oa:hasTarget <https://www.nikkei.com/article/DGXMZO24103660Q7A131C1CN8000/>;
   oa:hasBody geojp:愛知県名古屋市;
   oa:motivatedBy oa:tagging.
+
+tag:3 rdf:type oa:Annotation;
+  oa:hasTarget <http://anpi-hikaku.com/local/aichi.html>;
+  oa:hasBody sp:独居老人;
+  oa:motivatedBy oa:tagging.
+tag:4 rdf:type oa:Annotation;
+  oa:hasTarget <http://anpi-hikaku.com/local/aichi.html>;
+  oa:hasBody geojp:愛知県;
+  oa:motivatedBy oa:tagging.
